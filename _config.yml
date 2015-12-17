@@ -1,0 +1,28 @@
+name: toivikki
+favicon: null
+layout_spectrum: 0.20072710956446826
+typography_spectrum: 0.683674146886915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7586683505214751
+  lightness: 0.3125629236456007
+  saturation: 0.6393353720195591
+  rhythmicContrast: 0.5277542660478503
+purpose: []
